@@ -1,0 +1,14 @@
+body{
+    background-color: gray
+}
+h1, p{
+    color: white;
+}
+
+.active{
+    color: skyblue;
+}
+
+.inactive{
+    color: orange;
+}
